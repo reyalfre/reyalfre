@@ -62,7 +62,6 @@ No activity tracked
 <a href="https://github.com/reyalfre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&theme=dark&layout=compact" height="300">
 </a>
-<img src="https://wakatime.com/share/@4dc2bfed-2ba2-41a6-8906-5dcf3d067e59/c2ad2cb2-5647-43ba-8395-c3787a5293ab.svg" height="300"></img>
 </p>
 
 ![alt jdm](https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif)
