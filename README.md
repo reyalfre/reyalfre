@@ -29,6 +29,7 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
 <h3 align="center">Actualmente manejo estos lenguajes de programación.</h3>
 <p align="center">
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/javaicon.png" height="50" />
+<img src="[https://github.com/reyalfre/reyalfre/blob/main/images/intellijicon.png](https://camo.githubusercontent.com/fda8709df4b0c91e455d546e83d3f60dd735df4bac2f1005a272bd7752b2baed/68747470733a2f2f7777772e6a6574627261696e732e636f6d2f61636164656d792f696d672f69636f6e2d6b6f746c696e2d6e65772e737667)" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/cssicon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/pythonicon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/htmlicon.png" height="50"/>
