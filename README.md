@@ -28,20 +28,20 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
     💻Información profesional💻
 <h3 align="center">Actualmente manejo estos lenguajes de programación.</h3>
 <p align="center">
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/javaicon.png" height="50" />
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/cssicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/pythonicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/htmlicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/javaicon.png" height="50" />
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/cssicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/pythonicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/htmlicon.png" height="50"/>
 </p>
 
 <h3 align="center">Uso estas tecnologías.</h3>
 <p align="center">
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/intellijicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/vscodeicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/githubicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/discordicon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/dockericon.png" height="50"/>
-<img src="https://github.com/alexlaso/alexlaso/blob/main/images/mongoicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/intellijicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/vscodeicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/githubicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/discordicon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/dockericon.png" height="50"/>
+<img src="https://github.com/reyalfre/reyalfre/blob/main/images/mongoicon.png" height="50"/>
 </p>
 
 <!-- Actividad -->
