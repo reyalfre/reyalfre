@@ -48,19 +48,7 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
     
 </p>
 
-<!-- Actividad -->
-    Actividad
-<!--START_SECTION:waka-->
 
-```txt
-From: 15 September 2023 - To: 15 October 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 <p align="center">
 <a href="https://github.com/reyalfre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&theme=dark&layout=compact" height="300">
