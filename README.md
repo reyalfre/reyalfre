@@ -43,6 +43,9 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/discordicon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/dockericon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/mongoicon.png" height="50"/>
+<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="50"/>
+    
 </p>
 
 <!-- Actividad -->
