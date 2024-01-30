@@ -57,7 +57,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <p align="center">
 <a href="https://github.com/reyalfre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&theme=dark&layout=compact" height="300">
