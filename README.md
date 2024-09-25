@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=reyalfre&color=grey&style=flat&label=VISITAS)
 
 ---
-### Hola, me llamo Alfredo Rafael Maldonado Pertuz y actualmente me encuentro estudiando 2º de DAM.  
+### Hello, my name is Alfredo Maldonad0o, I'm full stack developer and I have a DAM (Mobile Application Developer) degree.  
 ---
 <!-- Introducción simple -->
 Poco a poco mejorando constantemente, ya domino muchos lenguajes de programación<br/>
