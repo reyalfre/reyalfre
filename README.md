@@ -1,31 +1,14 @@
-<!--
-**alexlaso/alexlaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Apartado para empezar con un gif y un saludo-->
-
 ![alt musashi](https://c.tenor.com/q1pTbvTBF5YAAAAd/vagabond_gif_1.gif)<br/>
 ![](https://komarev.com/ghpvc/?username=reyalfre&color=grey&style=flat&label=VISITAS)
 
 ---
-### Hello, my name is Alfredo Maldonad0o, I'm full stack developer and I have a DAM (Mobile Application Developer) degree.  
+### Hello, my name is Alfredo Maldonado, I'm full stack developer and I have a DAM (Mobile Application Developer) degree.  
 ---
-<!-- Introducción simple -->
 Poco a poco mejorando constantemente, ya domino muchos lenguajes de programación<br/>
 ---
 
-<!-- Información referida a mi profesión -->
-    💻Información profesional💻
+💻 **Información profesional** 💻
+
 <h3 align="center">Actualmente manejo estos lenguajes de programación.</h3>
 <p align="center">
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/javaicon.png" height="50" />
@@ -44,21 +27,19 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/discordicon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/dockericon.png" height="50"/>
 <img src="https://github.com/reyalfre/reyalfre/blob/main/images/mongoicon.png" height="50"/>
-
-    
 </p>
 
+---
+
+<h3 align="center">📊 Mi Balance de Lenguajes</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Alfredo" />
+</p>
 
 <p align="center">
-<a href="https://github.com/reyalfre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&theme=dark&layout=compact" height="300">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=reyalfre&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Alfredo" />
 </p>
 
-![alt jdm](https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif)
+---
 
-<!-- 
-    Recursos usados
-    https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-    
--->
+![alt jdm](https://i.pinimg.com/originals/74/8c/7d/748c7d0dd14909493f922bc2caa22f17.gif)
