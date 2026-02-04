@@ -11,33 +11,33 @@ Poco a poco mejorando constantemente, ya domino muchos lenguajes de programació
 
 <h3 align="center">Actualmente manejo estos lenguajes de programación.</h3>
 <p align="center">
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/javaicon.png" height="50" />
-<img src="https://camo.githubusercontent.com/fda8709df4b0c91e455d546e83d3f60dd735df4bac2f1005a272bd7752b2baed/68747470733a2f2f7777772e6a6574627261696e732e636f6d2f61636164656d792f696d672f69636f6e2d6b6f746c696e2d6e65772e737667" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/cssicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/pythonicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/htmlicon.png" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" alt="java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" alt="css" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" alt="html" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="js" />
 </p>
 
 <h3 align="center">Uso estas tecnologías.</h3>
 <p align="center">
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/intellijicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/vscodeicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/githubicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/discordicon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/dockericon.png" height="50"/>
-<img src="https://github.com/reyalfre/reyalfre/blob/main/images/mongoicon.png" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="50" alt="intellij" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" alt="vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" height="50" alt="discord" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" alt="docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" />
 </p>
 
 ---
 
 <h3 align="center">📊 Mi Balance de Lenguajes</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Lenguajes de Alfredo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyalfre&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyalfre&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Alfredo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reyalfre&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
